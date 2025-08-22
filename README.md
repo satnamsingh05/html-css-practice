@@ -1,2 +1,8 @@
-# html-css-practice
-My practice projects using HTML and CSS  Beginner web development exercises
+# HTML CSS Practice
+
+My beginner projects using HTML and CSS.
+
+🚀 [Live Demo](https://satnamsingh05.github.io/html-css-practice/)
+
+## Preview
+![Screenshot](preview.png)
